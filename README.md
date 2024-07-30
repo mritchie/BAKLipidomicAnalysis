@@ -24,7 +24,7 @@ List of files
 * MA-RU-439_Mitochondrial Samples_Metaboanalyst.csv  Input data
 * Methods.docx  Methods statment for manuscript
 * normalised_data.txt  Quantile normalized data
-* all_results_unranked_2023_07_28.txt  Differential Lipid reults (all contrasts, unranked)
+* all_results_unranked_2023_07_28.txt  Differential Lipid results (all contrasts, unranked)
 * mds_goes_boom.pdf  MDS plot (Figure S2)
 * volcano_goes_boom_again.pdf  Volcano plot (Figure 4A)
 * volcano_goes_boom_again2.pdf  Volcano plot (Figure 4B)
