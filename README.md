@@ -1,8 +1,8 @@
 # BAKLipidomicAnalysis
 
-Analysis files from Uren et al. (2024) "The lipid signature of BAK-driven apoptotic pore formation"
+Archive of analysis files from Uren et al. (2024) "The lipid signature of BAK-driven apoptotic pore formation"
 
-The main file in this archive 'LipodomicAnalysis.tar.gz' contains input data, code and output from lipidomic analysis featured in this manuscript.
+The main file 'LipodomicAnalysis.tar.gz' contains input data, code and output from the lipidomic analysis featured in this manuscript.
 
 List of files
 * Analysis.Rmd  Rmarkdown of analysis code
