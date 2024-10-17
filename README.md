@@ -1,6 +1,6 @@
 # BAKLipidomicAnalysis
 
-Archive of analysis files from [Uren, R.T., Ritchie, M.E., Wong, A.W., Ludeman, J.P., Uno, E., Narayana, V.K., De Souza, D.P., Sviridov, D., Kluck, R.M. A lipid signature of BAK-driven apoptotic pore formation, bioRxiv, 2024, doi: 10.1101/2024.10.16.618570.](https://doi.org/10.1101/2024.10.16.618570)
+Archive of analysis files from [Uren * et al.* (2024) A lipid signature of BAK-driven apoptotic pore formation, bioRxiv, doi: 10.1101/2024.10.16.618570.](https://doi.org/10.1101/2024.10.16.618570)
 
 The main file 'LipodomicAnalysis.tar.gz' contains input data, code and output from the lipidomic analysis featured in this manuscript.
 
