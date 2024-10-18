@@ -1,4 +1,4 @@
-# BAKLipidomicAnalysis
+# BAK Lipidomic Analysis
 
 Archive of analysis files from:
 
