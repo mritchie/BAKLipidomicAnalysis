@@ -6,7 +6,8 @@ Archive of analysis files from:
 
 The main file 'LipodomicAnalysis.tar.gz' contains input data, code and output from the lipidomic analysis featured in this manuscript.
 
-Summary of files
+Below is a summary of the files contained within 'LipodomicAnalysis.tar.gz'.
+
 | Filename    | Description |
 | ----------  | ----------- |
 | Analysis.Rmd | Rmarkdown of analysis code |
